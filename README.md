@@ -30,3 +30,6 @@ Welcome to my Data Analytics and Machine Learning portfolio! This repository ser
 ## 📬 Contact & Connect
 
 * **GitHub:** [vrkeshavardhan17-sys](https://github.com/vrkeshavardhan17-sys)
+
+1.https://github.com/vrkeshavardhan17-sys/Telco_Customer_Churn_Prediction_new
+2.https://github.com/vrkeshavardhan17-sys/Employee_Attrition_Prediction
