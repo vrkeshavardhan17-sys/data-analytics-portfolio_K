@@ -29,7 +29,7 @@ Welcome to my Data Analytics and Machine Learning portfolio! This repository ser
 
 ## 📬 Contact & Connect
 
-* **GitHub:** (https://github.com/vrkeshavardhan17-sys/data-analytics-portfolio_K/blob/main/README.md)
+* **GitHub:** [(https://github.com/vrkeshavardhan17-sys/data-analytics-portfolio_K/blob/main/README.md)](https://github.com/vrkeshavardhan17-sys/data-analytics-portfolio_K/blob/main/README.md)
 
 1.https://github.com/vrkeshavardhan17-sys/Telco_Customer_Churn_Prediction_new
 
